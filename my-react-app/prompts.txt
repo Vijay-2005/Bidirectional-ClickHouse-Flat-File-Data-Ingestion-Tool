@@ -1,0 +1,45 @@
+# AI Prompts Used for Development
+
+## Frontend Development Prompts
+
+1. "Build a React web application for a bidirectional data ingestion tool between ClickHouse and Flat File."
+
+2. "Create components for connection configuration, schema selection, and data ingestion for a React application that transfers data between ClickHouse and Flat Files."
+
+3. "Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Admin\vijay\ZeoTapAssignment2\my-react-app\src'"
+
+4. "Continue to iterate?"
+
+5. "Request id: a2e14dfd-1794-4f97-8489-b20907e78a27"
+
+6. "can you tell me how can I test it using mocks"
+
+7. "what shoud I have to fiill in the Username: Username JWT Token"
+
+8. "if I will ask the ai to to make the backend of it can you please tell me what shoud be the prompt according to this project"
+
+9. "how can I ensure the backend I will get will be correct what I want using the ai can you also provide any infromation about this prject which would be helpful for my backen dai"
+
+10. "do we have to make any our own database Integration Assignment: Bidirectional ClickHouse & Flat File Data Ingestion Tool..."
+
+11. "I have built backend of this now how to connect them and deliver them according to the assignment"
+
+## Backend Development Prompts
+
+1. "Create a backend for my bidirectional data ingestion tool between ClickHouse and Flat Files with these requirements..."
+
+2. "How do I connect to ClickHouse database using JWT token authentication?"
+
+3. "Implement API endpoints for fetching columns and ingesting data between ClickHouse and Flat Files"
+
+4. "How to handle file operations for reading and writing CSV/TSV files with custom delimiters"
+
+5. "Implement error handling in Node.js/Express for database and file operations"
+
+## Integration Prompts
+
+1. "Connect React frontend with backend API for bidirectional data ingestion tool"
+
+2. "How to test ClickHouse connection with example datasets"
+
+3. "Setting up Docker for ClickHouse development environment"
